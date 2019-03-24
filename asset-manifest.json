@@ -1,14 +1,14 @@
 {
-  "main.css": "/hexapod-web/static/css/main.993b054c.chunk.css",
-  "main.js": "/hexapod-web/static/js/main.72491b0f.chunk.js",
-  "main.js.map": "/hexapod-web/static/js/main.72491b0f.chunk.js.map",
+  "main.css": "/hexapod-web/static/css/main.c2aaf6ba.chunk.css",
+  "main.js": "/hexapod-web/static/js/main.2dcf9a22.chunk.js",
+  "main.js.map": "/hexapod-web/static/js/main.2dcf9a22.chunk.js.map",
   "runtime~main.js": "/hexapod-web/static/js/runtime~main.d2b03934.js",
   "runtime~main.js.map": "/hexapod-web/static/js/runtime~main.d2b03934.js.map",
-  "static/js/2.f4811e5d.chunk.js": "/hexapod-web/static/js/2.f4811e5d.chunk.js",
-  "static/js/2.f4811e5d.chunk.js.map": "/hexapod-web/static/js/2.f4811e5d.chunk.js.map",
+  "static/js/2.1c45c646.chunk.js": "/hexapod-web/static/js/2.1c45c646.chunk.js",
+  "static/js/2.1c45c646.chunk.js.map": "/hexapod-web/static/js/2.1c45c646.chunk.js.map",
   "index.html": "/hexapod-web/index.html",
-  "precache-manifest.350494c809751f23194d00c50e212ed3.js": "/hexapod-web/precache-manifest.350494c809751f23194d00c50e212ed3.js",
+  "precache-manifest.d71cd80fd9541184ec619871bc2a3667.js": "/hexapod-web/precache-manifest.d71cd80fd9541184ec619871bc2a3667.js",
   "service-worker.js": "/hexapod-web/service-worker.js",
-  "static/css/main.993b054c.chunk.css.map": "/hexapod-web/static/css/main.993b054c.chunk.css.map",
-  "static/media/logo.svg": "/hexapod-web/static/media/logo.5d5d9eef.svg"
+  "static/css/main.c2aaf6ba.chunk.css.map": "/hexapod-web/static/css/main.c2aaf6ba.chunk.css.map",
+  "static/media/App.css": "/hexapod-web/static/media/jumbotron-bg.6519e2ed.jpg"
 }
