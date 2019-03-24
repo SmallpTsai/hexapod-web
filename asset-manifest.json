@@ -1,5 +1,5 @@
 {
-  "main.css": "/hexapod-web/static/css/main.b9c929a1.chunk.css",
+  "main.css": "/hexapod-web/static/css/main.90ff2ebc.chunk.css",
   "main.js": "/hexapod-web/static/js/main.ed7de4c6.chunk.js",
   "main.js.map": "/hexapod-web/static/js/main.ed7de4c6.chunk.js.map",
   "runtime~main.js": "/hexapod-web/static/js/runtime~main.d2b03934.js",
@@ -7,9 +7,9 @@
   "static/js/2.849a7a02.chunk.js": "/hexapod-web/static/js/2.849a7a02.chunk.js",
   "static/js/2.849a7a02.chunk.js.map": "/hexapod-web/static/js/2.849a7a02.chunk.js.map",
   "index.html": "/hexapod-web/index.html",
-  "precache-manifest.c876b83c08c651657d861909fb41075a.js": "/hexapod-web/precache-manifest.c876b83c08c651657d861909fb41075a.js",
+  "precache-manifest.227634f3e63c5f9f3e8d3f6ba5695a1c.js": "/hexapod-web/precache-manifest.227634f3e63c5f9f3e8d3f6ba5695a1c.js",
   "service-worker.js": "/hexapod-web/service-worker.js",
-  "static/css/main.b9c929a1.chunk.css.map": "/hexapod-web/static/css/main.b9c929a1.chunk.css.map",
+  "static/css/main.90ff2ebc.chunk.css.map": "/hexapod-web/static/css/main.90ff2ebc.chunk.css.map",
   "static/media/3dparts-s.jpg": "/hexapod-web/static/media/3dparts-s.145127e0.jpg",
   "static/media/App.css": "/hexapod-web/static/media/jumbotron-bg.6519e2ed.jpg"
 }

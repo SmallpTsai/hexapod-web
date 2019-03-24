@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "57b5b241f38a24de10b4",
-    "url": "/hexapod-web/static/css/main.b9c929a1.chunk.css"
+    "revision": "ddb0328e9badba4c542b",
+    "url": "/hexapod-web/static/css/main.90ff2ebc.chunk.css"
   },
   {
-    "revision": "57b5b241f38a24de10b4",
+    "revision": "ddb0328e9badba4c542b",
     "url": "/hexapod-web/static/js/main.ed7de4c6.chunk.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/hexapod-web/static/media/3dparts-s.145127e0.jpg"
   },
   {
-    "revision": "50afcb9f5df195488b29ede3b22b17d6",
+    "revision": "f53d7e6ea362488deecfa965deebb9cb",
     "url": "/hexapod-web/index.html"
   }
 ];
