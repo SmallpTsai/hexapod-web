@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/hexapod-web/static/media/3dparts-s.145127e0.jpg"
   },
   {
-    "revision": "f53d7e6ea362488deecfa965deebb9cb",
+    "revision": "9cd1a5c9f3409e0fb0f76a813343a054",
     "url": "/hexapod-web/index.html"
   }
 ];
