@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hexapod-web/precache-manifest.65b4db5281c16e50d132f08e936c893d.js"
+  "/hexapod-web/precache-manifest.ac1af1091e9fb4bb879c519ca6fa8bd8.js"
 );
 
 workbox.clientsClaim();
